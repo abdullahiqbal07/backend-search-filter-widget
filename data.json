@@ -1,0 +1,9253 @@
+[
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 512705
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 193014
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 297555
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 890994
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 142434
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 670499
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 771441
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 152475
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 644795
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 830069
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 889092
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 455827
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 38835
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 266175
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 569334
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 753621
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 496445
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 144527
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 351608
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 251414
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 212709
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 261903
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 382666
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 669701
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 490654
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 673067
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 947725
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 806516
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 132572
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 76665
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 63734
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 47111
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 899308
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 42769
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 390574
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 170337
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 106970
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 665306
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 935422
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 529923
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 301309
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 311235
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 552752
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 239383
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 233258
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 95121
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 316364
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 665247
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 745401
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 719812
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 51713
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 783203
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 76272
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 422332
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 643829
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 380651
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 848166
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 93924
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 694065
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 327777
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 748190
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 817733
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 340277
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 159679
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 47389
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 517173
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 570284
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 470906
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 889785
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 335539
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 189522
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 89330
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 378718
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 368665
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 432939
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 228844
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 979432
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 569708
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 660344
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 498440
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 775004
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 297765
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 391176
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 794389
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 308021
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 43693
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 622305
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 980019
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 590129
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 731410
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 121183
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 995410
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 668684
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 471940
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 883117
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 901379
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 745011
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 462172
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 666843
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 148245
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 184226
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 44415
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 865541
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 804998
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 839053
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 609744
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 30356
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 490489
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 643973
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 287566
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 196731
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 857311
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 467226
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 48434
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 435265
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 563448
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 885574
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 431759
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 489172
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 904049
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 184721
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 776622
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 646837
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 264303
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 570309
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 783478
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 586915
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 741568
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 207009
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 234101
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 795785
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 229170
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 992663
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 441672
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 174580
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 703965
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 413485
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 473509
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 372154
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 715052
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 194465
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 710841
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 60923
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 11123
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 446034
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 102365
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 989140
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 25973
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 356663
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 790173
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 773395
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 556825
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 297232
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 318112
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 327608
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 472547
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 206146
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 27019
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 788932
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 296781
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 771397
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 749085
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 872164
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 375559
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 434413
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 250029
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 320520
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 679921
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 171720
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 71258
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 238675
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 888068
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 312687
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 827761
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 521579
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 82595
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 668075
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 74872
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 40727
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 612274
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 388437
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 798638
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 135824
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 616390
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 592504
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 438720
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 660504
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 903635
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 927691
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 802924
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 717063
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 766029
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 532264
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 658957
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 476135
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 40928
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 29391
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 402759
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 447685
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 435350
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 527126
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 811724
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 873020
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 282045
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 272401
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 793935
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 293309
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 958032
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 552587
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 954359
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 411527
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 293538
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 56248
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 371132
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 748174
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 611211
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 463828
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 325257
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 586840
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 529607
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 299679
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 795905
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 971463
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 481272
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 523880
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 104790
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 273256
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 662556
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 868517
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 85065
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 99995
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 636914
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 438361
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 213087
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 236040
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 15506
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 814866
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 221420
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 376291
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 485003
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 460041
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 474044
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 967495
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 466632
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 401157
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 409517
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 334795
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 727605
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 385500
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 599041
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 187131
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 477346
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 289923
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 114099
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 823116
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 663321
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 576865
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 386715
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 322432
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 731573
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 28007
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 629071
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 466516
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 790347
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 190931
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 794210
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 153509
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 249003
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 306854
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 628904
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 643004
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 801556
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 643331
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 965760
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 651698
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 223300
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 164611
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 639997
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 463908
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 757893
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 918292
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 799551
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 700505
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 541792
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 333028
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 866231
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 105035
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 747353
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 103648
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 306058
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 708992
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 403000
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 809802
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 103260
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 527440
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 62726
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 911142
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 934142
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 280853
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 966417
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 811069
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 334433
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 120531
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 228453
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 803428
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 61430
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 560840
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 872277
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 308677
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 577831
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 941988
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 89813
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 183837
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 897011
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 360128
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 809144
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 227054
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 608905
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 521615
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 14147
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 183272
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 232986
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 199615
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 180072
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 300358
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 687772
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 564930
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 993535
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 943813
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 672545
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 848864
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 414752
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 360964
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 115302
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 572403
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 150637
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 30223
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 60524
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 926335
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 494142
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 240383
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 286528
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 962493
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 355661
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 356002
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 816290
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 762837
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 627595
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 314454
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 90600
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 92130
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 216151
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 205436
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 434018
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 179722
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 423191
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 894138
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 473543
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 92183
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 310381
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 270846
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 583198
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 231775
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 643337
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 253642
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 318622
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 343117
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 606576
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 825326
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 319046
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 598189
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 381541
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 708420
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 629419
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 567112
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 678296
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 258456
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 885952
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 255183
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 63549
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 613369
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 503079
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 863778
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 135104
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 901344
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 395838
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 505341
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 225648
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 573835
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 639285
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 640108
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 480119
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 816465
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 177017
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 945471
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 66936
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 670480
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 22316
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 322064
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 926254
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 330083
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 99048
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 93411
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 437847
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 693533
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 413080
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 456202
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 474481
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 203805
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 175669
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 478218
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 487589
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 387305
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 440228
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 926910
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 768835
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 971132
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 69513
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 490014
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 801828
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 992341
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 434750
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 387561
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 400050
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 631991
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 770936
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 866462
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 554648
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 486446
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 127839
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 695451
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 337619
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 162487
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 889846
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 785625
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 508941
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 660968
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 510344
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 317547
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 604751
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 115868
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 712067
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 832875
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 229325
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 366661
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 964901
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 672281
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 377316
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 797242
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 85066
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 646015
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 175051
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 928205
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 342352
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 841587
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 519491
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 667767
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 237798
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 445978
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 744314
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 874776
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 893539
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 43179
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 889186
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 296443
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 624697
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 978001
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 359508
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 557375
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 281504
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 19880
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 793175
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 909900
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 594897
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 759985
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 368323
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 583987
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 680017
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 875077
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 177057
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 871220
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 526357
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 151210
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 571714
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 430198
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 604203
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 733317
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 274851
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 510331
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 842249
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 136776
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 24663
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 192160
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 744811
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 137916
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 907566
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 906736
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 198908
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 941839
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 872320
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 409507
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 427958
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 108690
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 816405
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 457337
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 824080
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 728228
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 805798
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 262737
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 127815
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 98229
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 317608
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 382235
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 987254
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 704762
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 512635
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 891109
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 292153
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 269883
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 373634
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 711612
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 948664
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 742759
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 227106
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 590945
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 826286
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 385136
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 951231
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 952987
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 991533
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 197953
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 44954
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 34896
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 130815
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 456748
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 576088
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 652232
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 441365
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 566661
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 364050
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 129441
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 356137
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 955377
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 339333
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 476515
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 587251
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 744326
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 343649
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 973150
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 220630
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 171351
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 301893
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 986581
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 468708
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 975651
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 536454
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 178355
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 66809
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 949164
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 27663
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 400712
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 534668
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 813995
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 560154
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 604001
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 789712
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 666450
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 601910
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 884982
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 888838
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 782222
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 848937
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 872813
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 947960
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 552334
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 860513
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 548044
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 400251
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 118301
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 645646
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 245965
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 25561
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 894380
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 227601
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 129721
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 985135
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 542934
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 994369
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 791537
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 493578
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 73590
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 999046
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 140030
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 717843
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 96234
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 213379
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 603948
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 487541
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 522385
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 448489
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 570776
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 901454
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 303229
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 710510
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 725016
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 703601
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 909266
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 577820
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 798514
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 628030
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 676674
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 87723
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 224046
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 648674
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 823206
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 958628
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 262952
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 576702
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 556919
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 656700
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 514278
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 47355
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 515111
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 740379
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 467171
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 814455
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 909641
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 339690
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 297686
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 992928
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 728690
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 851091
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 310900
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 621347
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 573918
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 28795
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 56893
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 802967
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 498081
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 309121
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 401125
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 999518
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 947427
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 741152
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 817843
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 729003
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 442407
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 382197
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 860651
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 665092
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 491150
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 118240
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 587637
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 336544
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 48807
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 37154
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 577923
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 219823
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 861668
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 95200
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 750533
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 514079
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 323755
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 172374
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 378303
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 248690
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 950703
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 842194
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 700377
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 585755
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 120326
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 310746
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 914344
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 87056
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 747231
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 357117
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 354998
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 523030
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 451749
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 216550
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 448028
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 127042
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 873903
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 833780
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 984606
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 644372
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 356594
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 812378
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 752578
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 888788
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 531250
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 801458
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 21336
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 150052
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 322684
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 334558
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 686370
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 30619
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 413690
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 279059
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 503819
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 266679
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 34725
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 634904
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 113848
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 656910
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 686813
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 937845
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 490575
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 782545
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 118598
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 646371
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 752504
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 199744
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 413755
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 648515
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 624396
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 517887
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 603302
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 130087
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 798888
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 925964
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 925872
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 876038
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 759835
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 932008
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 948496
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 644948
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 348587
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 790280
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 125760
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 715519
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 398745
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 219762
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 583198
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 702601
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 87681
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 63334
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 624262
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 598808
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 730498
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 18142
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 540452
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 503511
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 851268
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 393677
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 952733
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 925417
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 295555
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 16973
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 380690
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 292846
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 90636
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 403906
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 113860
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 46021
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 527097
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 103257
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 131475
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 625706
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 409771
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 852707
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 290589
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 665727
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 575567
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 61212
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 426165
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 345485
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 294631
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 30452
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 307862
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 176610
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 705612
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 709948
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 895766
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 679683
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 468002
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 723565
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 861064
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 38420
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 915157
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 590218
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 768429
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 649585
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 717769
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 350784
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 801598
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 926139
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 915053
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 520721
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 863092
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 749583
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 622180
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 942555
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 94854
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 889161
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 191022
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 927162
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 172388
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 40166
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 663257
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 954621
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 50067
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 271694
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 55289
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 313701
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 945514
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 39841
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 114226
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 274364
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 860959
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 830611
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 257988
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 453927
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 787713
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 752912
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 595181
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 298084
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 106041
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 244364
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 441320
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 237595
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 923896
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 113355
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 389593
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 214473
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 176925
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 351584
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 419017
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 124925
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 954821
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 780081
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 498539
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 496709
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 693744
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 541052
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 651902
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 38810
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 957459
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 111959
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 656217
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 262443
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 402611
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 147148
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 176268
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 724836
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 265760
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 707610
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 441201
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 442158
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 211767
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 845064
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 658795
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 454176
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 989703
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 353434
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 684502
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 707632
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 68432
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 750019
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 366812
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 544670
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 257409
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 148127
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 758712
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 801922
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 497933
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 959375
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 679466
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 975736
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 142055
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 465953
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 200983
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 327686
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 26816
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 401176
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 90070
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 422914
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 989029
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 615067
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 450225
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 260710
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 390869
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 843482
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 538105
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 804068
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 296360
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 200825
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 990135
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 20690
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 867508
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 106061
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 353021
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 154962
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 476127
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 303225
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 889801
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 102761
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 705047
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 830793
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 413411
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 941191
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 638094
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 62817
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 474769
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 739899
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 419614
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 63821
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 636547
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 647853
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 440172
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 111184
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 887843
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 69765
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 981724
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 884314
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 451300
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 443071
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 182623
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 193276
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 405820
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 36634
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 896900
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 942407
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 45377
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 324352
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 577296
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 986899
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 702532
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 31787
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 891782
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 947248
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 649383
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 549429
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 507070
+  },
+  {
+    "location": "Rawalpindi",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 728687
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 993920
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 658060
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 799677
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 412026
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 264457
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 715717
+  },
+  {
+    "location": "Multan",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 282981
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 480763
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 695681
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 31402
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 516124
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "House",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 241124
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 435419
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 881853
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "House",
+    "amenities": [
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 591133
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 776003
+  },
+  {
+    "location": "Sargodha",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 206948
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 814312
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 661809
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 801203
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 397101
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 405911
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 944754
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 771975
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 875307
+  },
+  {
+    "location": "Faisalabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 97966
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 295279
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 644933
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 866359
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 803117
+  },
+  {
+    "location": "Islamabad",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 14825
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 806690
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 78687
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 870269
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 376937
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 303602
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 458837
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 539701
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Garage"
+    ],
+    "listingType": "sale",
+    "price": 959264
+  },
+  {
+    "location": "Quetta",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 16977
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 497375
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Villa",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 158061
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 310245
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "rent",
+    "price": 972387
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Villa",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 123887
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 845384
+  },
+  {
+    "location": "Lahore",
+    "propertyType": "House",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 137256
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 235819
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 253465
+  },
+  {
+    "location": "Peshawar",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 397446
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 867471
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 802919
+  },
+  {
+    "location": "Mardan",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Garage"
+    ],
+    "listingType": "rent",
+    "price": 861098
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "sale",
+    "price": 271519
+  },
+  {
+    "location": "Gujranwala",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Garage",
+      "Gym",
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 512862
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 451814
+  },
+  {
+    "location": "Bahawalpur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 586103
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "House",
+    "amenities": [
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 120504
+  },
+  {
+    "location": "Multan",
+    "propertyType": "Villa",
+    "amenities": [],
+    "listingType": "sale",
+    "price": 739773
+  },
+  {
+    "location": "Hyderabad",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 807437
+  },
+  {
+    "location": "Sukkur",
+    "propertyType": "Farm",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 813912
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool"
+    ],
+    "listingType": "sale",
+    "price": 710288
+  },
+  {
+    "location": "Karachi",
+    "propertyType": "Farm",
+    "amenities": [
+      "Pool",
+      "Garage",
+      "Gym"
+    ],
+    "listingType": "rent",
+    "price": 436178
+  },
+  {
+    "location": "Sialkot",
+    "propertyType": "Apartment",
+    "amenities": [],
+    "listingType": "rent",
+    "price": 588865
+  }
+]
