@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 // Connect to MongoDB
-mongoose.connect("mongodb+srv://abdullahiqbal910238:abdullah@smartfilter.wu95kq5.mongodb.net/smartfilter?retryWrites=true&w=majority&appName=smartfilter")
+mongoose.connect(process.env.MONGODB_URI)
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.log(err));
 
